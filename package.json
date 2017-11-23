@@ -46,11 +46,11 @@
     "knex": "^0.13",
     "mocha": "^2",
     "mysql": "^2",
-    "objection": "github:Vincit/objection.js#d93d18e5220a83b9ef40ad3a53728403c77eed8c",
+    "objection": "^0.9.0",
     "pg": "^6",
     "sqlite3": "^3"
   },
   "peerDependencies": {
-    "objection": "^0.8.0"
+    "objection": "^0.9.0"
   }
 }
